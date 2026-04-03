@@ -1,4 +1,6 @@
 streamlit
 underthesea
 plotly
-pandas 
+wordcloud
+pandas
+matplotlib
